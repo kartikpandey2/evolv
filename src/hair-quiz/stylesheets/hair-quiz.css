@@ -1,0 +1,103 @@
+.hair-profile {
+    /*height: 150vh;*/
+    margin-inline: 17vw;
+    width: 66vw;
+    text-align: center;
+    padding-top: 7vh;
+    font-family: sans-serif;
+}
+
+.hair-profile-heading {
+    margin-bottom: 3vh;
+    display: block;
+    font-weight: bold;
+    font-size: 3.5vh;
+}
+
+.hair-type-question {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2.5vh;
+    padding-bottom: 3vh;
+}
+
+.hair-type-detail {
+    font-weight: lighter;
+    font-size: 2vh;
+    padding-bottom: 3vh;
+    display: block;
+    text-align: left;
+}
+
+.hair-type-options {
+    display: flex;
+    justify-content: center;
+}
+
+.hair-type-option {
+    width: 16.5vw;
+    align-self: center;
+    height: 13vw;
+}
+
+.hair-type-option-image {
+    height: 8vw;
+    width: 8vw;
+    cursor: pointer;
+    align-self: center;
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hair-type-option-image:hover {
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hair-type-option-description {
+    text-align: center;
+    font-size: 1.5vh;
+    font-weight: 200;
+}
+
+.hair-profile-question {
+    padding-bottom: 2vh;
+}
+
+.hair-goals {
+    text-align: center;
+    padding-inline: 28vw;
+    margin-top: 10vh;
+    height: 83vh;
+}
+
+.goal-btn {
+    border: 1px solid #C1CAC8;
+    display: inline-block;
+    margin-bottom: 2vh;
+    margin-right: 1vw;
+    font-family: sans-serif;
+    font-size: 2vh;
+    color: #4C5150;
+    padding-inline: 0.5vw;
+    padding-block: 0.5vh;
+}
+
+.hair-profile-submit-btn {
+    background-color: #F48594;
+    margin: 4vh;
+    border: none;
+    padding: 2vh;
+    padding-inline: 5vw;
+    font-family: sans-serif;
+    font-size: 2vh;
+    color: white;
+    cursor: pointer;
+}
+
+.hair-profile-top-nav {
+    height: 10vh;
+    background-color: #F48594;
+}

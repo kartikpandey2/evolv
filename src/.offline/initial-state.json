@@ -1,0 +1,247 @@
+{
+  "data": {
+    "offerTab":{
+      "textstringOne": "NEW HOLIDAY FRAGRANCE",
+      "image": {
+        "url": "https://toppng.com/uploads/preview/champagne-glasses-11546979399jgkt2f6rns.png",
+        "description": "Two glasses with bubbling champagnes"
+      },
+      "textstringTwo": "ISN'T SHE (BUBB)LY"
+    },
+    "topNavBar":
+    [
+      {
+        "displayAction": "QUIZ",
+        "accessibility": "Quiz dropdown, take a hair or skin quiz",
+        "link": null,
+        "isDropdown": true
+      },
+      {
+        "displayAction": "PRODUCTS",
+        "accessibility": "Products dropdown, View all the products",
+        "link": null,
+        "isDropdown": true
+      },
+      {
+        "displayAction": "REVIEW",
+        "accessibility": "Review dropdown, Provide us with reviews to improve",
+        "link": null,
+        "isDropdown": true
+      },
+      {
+        "displayAction": "ABOUT",
+        "accessibility": "About dropdown, Know about our ingredients and standards",
+        "link": null,
+        "isDropdown": true
+      },
+      {
+        "displayAction": "ACCOUNT",
+        "accessibility": "Account, Click to view your account",
+        "link": null,
+        "isDropdown": false
+      },
+      {
+        "displayAction": "CART",
+        "accessibility": "Cart, Click to view your cart",
+        "link": null,
+        "isDropdown": false
+      }
+    ],
+    "displayReviews" : [
+      {
+        "image": {
+          "url": "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg",
+          "description": "profile picture of the user"
+        },
+        "productBought": "Zinc Scalp Moisturizer",
+        "reviewContent": "Hair feels so soft and smooth. My hair length has also increased and hair fall is much more controlled than before. Tried Evolv on a friends suggestion and now I would recommend Evolv to all the girls who want to change their hair game."
+      },
+      {
+        "image": {
+          "url": "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg",
+          "description": "profile picture of the user"
+        },
+        "productBought": "Zinc Scalp Moisturizer",
+        "reviewContent": "Hair feels so soft and smooth. My hair length has also increased and hair fall is much more controlled than before. Tried Evolv on a friends suggestion and now I would recommend Evolv to all the girls who want to change their hair game."
+      },
+      {
+        "image": {
+          "url": "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg",
+          "description": "profile picture of the user"
+        },
+        "productBought": "Zinc Scalp Moisturizer",
+        "reviewContent": "Hair feels so soft and smooth. My hair length has also increased and hair fall is much more controlled than before. Tried Evolv on a friends suggestion and now I would recommend Evolv to all the girls who want to change their hair game."
+      },
+      {
+        "image": {
+          "url": "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg",
+          "description": "profile picture of the user"
+        },
+        "productBought": "Zinc Scalp Moisturizer",
+        "reviewContent": "Hair feels so soft and smooth. My hair length has also increased and hair fall is much more controlled than before. Tried Evolv on a friends suggestion and now I would recommend Evolv to all the girls who want to change their hair game."
+      }
+    ],
+    "contactDetails": [
+      {
+        "heading": "PRODUCTS",
+        "detailList": ["SHAMPOO+CONDITIONER", "PURPLE SHAMPOO", "LEAVE-IN", "HAIR-MASK", "HAIR-SERUM", "BODY-WASH + BODY-LOTION", "FACE-CLEANSER", "FACE-SERUM", "FACE-MOISTURIZER", "GIFT-CARD"]
+      },
+      {
+        "heading": "COMPANY",
+        "detailList": ["OUR STORY", "OUR STANDARDS", "INGREDIENTS", "CAREERS", "AFFILIATES", "BLOG", "FAQ", "#EVOLV"]
+      },
+      {
+        "heading": "RESOURCES",
+        "detailList": ["CONTACT US", "REDEEM", "PRIVACY", "TERMS", "OUR GUARANTEE", "ACTION > WORDS", "ACCESSIBILITY"]
+      }
+    ],
+    "hairAndScalpProfile": [
+      {
+        "question": "What is your HAIR TYPE?",
+        "questionDetail": "You can identify your hair type by noticing the structure of your hair after they naturally dry from a wash. In case you&apos;re confused between two options, pick the lower one. For instance, pick curly in case you&apos;re confused between curly and coily.",
+        "options": [
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A girl with straight hair"
+            },
+            "description": "Straight"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A girl with wavy hair"
+            },
+            "description": "Wavy"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A girl with curly hair"
+            },
+            "description": "Curly"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A girl with coily hair"
+            },
+            "description": "Coily"
+          }
+        ]
+      },
+      {
+        "question": "What is your HAIR STRUCTURE?",
+        "questionDetail": "You can identify your hair type by noticing the structure of your hair after they naturally dry from a wash. In case you&apos;re confused between two options, pick the lower one. For instance, pick curly in case you&apos;re confused between curly and coily.",
+        "options": [
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with fine hair"
+            },
+            "description": "Fine"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with medium hair"
+            },
+            "description": "Medium"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with thick hair"
+            },
+            "description": "Thick"
+          }
+        ]
+      },
+      {
+        "question": "When does your SCALP start feeling OILY after washing?",
+        "questionDetail": "This will help us understand your hair type. If you're not sure about your answer, pick the higher option. For example, if you can't decide if your hair gets oily in 2-3 days or more than 4 days, pick more than 4 days!",
+        "options": [
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "Picture with hair oily after 24 hrs"
+            },
+            "description": "After 24 hrs"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "Picture with hair oily after 2-3 days"
+            },
+            "description": "After 2-3 days"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "Picture with hair oily after more than 4 days"
+            },
+            "description": "After 4 days"
+          }
+        ]
+      },
+      {
+        "question": "What is the amount of your SCALP MOISTURE?",
+        "questionDetail": "This will help us understand your scalp type. If you're not sure about your answer, pick the higher option. For example, if you can't decide if your scalp gets oily in 2-3 days or more than 4 days, pick more than 4 days!",
+        "options": [
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with more scalp moisture"
+            },
+            "description": "Oily"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with normal scalp moisture"
+            },
+            "description": "Normal"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "A picture with less scalp moisture"
+            },
+            "description": "Dry"
+          }
+        ]
+      },
+      {
+        "question": "Do you have DANDRUFF?",
+        "questionDetail": "Flakes are generally white in color and dry in nature. Whereas, dandruff is yellowish in color and oily in nature. Flakes appear on dry scalp and dandruff grows on normal or oily scalp.",
+        "options": [
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "Mostly have dandruff"
+            },
+            "description": "Mostly"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "Rarely have dandruff"
+            },
+            "description": "Rare"
+          },
+          {
+            "image": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rwE12pDK57h_MQFsILZkq-HNEtGYeklXyg&usqp=CAU",
+              "description": "No dandruff"
+            },
+            "description": "No"
+          }
+        ]
+      }
+    ],
+    "hairGoals": {
+      "question": "Select upto 5 hair goals",
+      "options": ["deep-condition", "fix split ends", "hydrate", "replenish hair", "strengthen", "anti-aging", "color protection", "lengthen", "thermal protection", "volumize", "anti-frizz", "curl definition", "nourish roots", "shine", "soothe scalp", "straighten", "oil control", "reduce brassiness"]
+    }
+  }
+}

@@ -1,0 +1,433 @@
+.Offer-Bar {
+    background-color: #F0F8F7;
+    align-items: center;
+    height: 2vh;
+    text-align: center;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    padding: 1vh;
+}
+
+.Offer-image {
+    height: 1.5vh;
+    max-width: 100%;
+    margin-inline: 1vw;
+}
+
+.Offer-text {
+    text-decoration: none;
+    color: #424242;
+    font-size: 1.5vh;
+}
+
+.home-page-one {
+    background-image: url("https://image.freepik.com/free-photo/face-care-concept-natural-cosmetic-products-aromatic-candle-funny-hair-band-pink-background_258910-211.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 96vh;
+}
+
+.home-one-text {
+    float: right;
+    align-items: center;
+    height: 96vh;
+    display: grid;
+    text-align: center;
+}
+
+.home-one-heading {
+    font-family: auto;
+}
+
+.home-one-heading-bigmessage {
+    font-size: 8vh;
+    font-weight: 100;
+}
+
+.home-one-heading-smallmessage {
+    font-size: 3.5vh;
+    line-height: 9vh
+}
+
+.home-one-content {
+    font-size: 3vh;
+    font-family: auto;
+}
+
+.divider {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #4C5150;
+}
+
+.hair-quiz-button {
+    background-color: #F48594;
+    margin: 4vh;
+    border: none;
+    padding: 2vh;
+    padding-inline: 5vw;
+    font-family: sans-serif;
+    font-size: 2vh;
+    color: white;
+    cursor: pointer;
+}
+
+.reviews-section {
+    background-image: url("https://i.pinimg.com/originals/56/7f/8a/567f8a0ce336b403d971316de978ad0f.png");
+    height: 90vh;
+}
+
+.happy-customers {
+    color: aqua;
+}
+
+.happy-customers-text {
+    width: 40%;
+    font-family: auto;
+    text-align: center;
+    margin: auto;
+    padding-inline: 3vw;
+    margin-top: 8vh;
+    background-color: black;
+    color: white;
+    font-size: 2.3vh;
+    padding-block: 1.5vh;
+    border: unset;
+    margin-bottom: 5vh;
+}
+
+.review-carousel {
+    display: flex;
+    width: 84.5vw;
+    margin-inline: 7vw;
+}
+
+.review-card {
+    width: 20vw;
+    margin-inline: 0.75vw;
+    height: 63vh;
+    background-color: lavenderblush;
+}
+
+.review-image {
+    width: 12vw;
+    height: 20vh;
+    align-content: center;
+    margin-inline: 4vw;
+    margin-top: 1vh;
+    border-radius: 50%;
+}
+
+.review-image-card {
+    background-color: white;
+    width: 13vw;
+    height: 24vh;
+    margin-top: 2vw;
+    margin-inline: 3.5vw;
+    box-shadow: 10px 10px 20px 0px grey;
+}
+
+.review-customer-name {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-left: 3vw;
+    font-size: 2.2vh;
+}
+
+.review-card-content {
+    font-family: auto;
+    display:flex;
+    margin: auto;
+    padding-inline: 2vw;
+    padding-block: 2vh;
+    font-size: 2vh;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 2vh;
+    font-style: italic;
+    width: 16vw;
+    height: 34vh;
+    margin-inline: 1vw;
+    padding-inline: 2vw;
+    line-height: 1.45;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #383838;
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 0.5vw;
+    content: "\201C";
+    font-size: 7vh;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: black;
+}
+
+.review-content {
+    width: 20vw;
+}
+
+.product-certificate {
+    height: 80vh;
+    background-color: #f1e1b0;
+    background-image: url('https://image.freepik.com/free-photo/composition-with-shampoo-bottle-beige-background-space-text_185193-16246.jpg');
+    background-repeat: no-repeat;
+    background-size: 90vw 80vh;
+    margin-bottom: 50vh;
+}
+
+.product-certificate-text {
+    align-items: center;
+    font-family: auto;
+    display: grid;
+    padding-inline: 2vw;
+    height: 80vh;
+    text-align: center;
+}
+
+.product-certificate-image {
+    height: 80vh;
+    width: 60vw;
+}
+
+.product-certificate-heading {
+    font-size: 4vh;
+    font-weight: bold;
+    margin-bottom: 3vh;
+}
+
+.product-certificate-content {
+    font-size: 2.3vh;
+    margin-bottom: 2vh;
+}
+
+.product-certificate-image {
+    height: 9vw;
+    width: 9vw;
+    padding-inline: 1vw;
+}
+
+.contact-details {
+    height: 50vh;
+    background-color: antiquewhite;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    display: flex;
+}
+
+.contact-details-product-list {
+    list-style-type: none;
+    font-family: sans-serif;
+    flex: 1;
+    padding-top: 5vh;
+    padding-inline: 1.5vw;
+}
+
+.detail-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.6vh;
+    line-height: 1.8;
+    font-weight: 100;
+}
+
+.list-heading {
+    font-size: 2.3vh;
+    line-height: 3;
+    font-weight: bold;
+    color: #F48594;
+}
+
+.contact-logos {
+    margin-top: 2vh;
+    margin-inline: 2vw;
+    align-content: center;
+}
+
+.contact-logo {
+    margin-inline: 0.75vw;
+    color: #F48594;
+    margin-bottom: 8vh;
+}
+
+.request-email-heading {
+    width: 25vw;
+    padding-inline: 2vw;
+    color: #F48594;
+    font-weight: bold;
+    line-height: 7vh;
+}
+
+.request-email-text {
+    font-family: sans-serif;
+    font-size: 1.8vh;
+    width: 25vw;
+    padding-inline: 2vw;
+    font-weight: lighter;
+    line-height: 2vh;
+}
+
+.request-email-form {
+    width: 25vw;
+    padding-inline: 2vw;
+    margin-top: 2vh;
+}
+
+.request-email-submit {
+    width: 20%;
+    height: 5vh;
+    background-color: #F48594;
+    color: white;
+    font-weight: lighter;
+    border: none;
+    cursor: pointer;
+}
+
+.request-email-input {
+    width: 80%;
+    height: 4.99vh;
+    padding-left: 1vw;
+    display: inline-block;
+    border:  0.01vh solid #ccc;
+    box-sizing: border-box;
+    color: #F48594;
+}
+
+.process-detail {
+    height: 105vh;
+    background-color: lavenderblush;
+}
+
+.small-circle {
+    height: 12vw;
+    width: 12vw;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.large-circle {
+    height: 17vw;
+    width: 17vw;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.step-1 {
+    margin-left: 20vw;
+    padding-top: 10vh;
+    display: flex;
+    width: 80vw;
+}
+
+.image-step-1 {
+    width: 15vw;
+    align-self: center;
+}
+
+.text-step-1 {
+    width: 50vw;
+    margin-right: 10vw;
+    text-align: center;
+    align-self: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 2.3vh;
+}
+
+.step-1-hair-quiz-button {
+    background-color: #F48594;
+    margin: 2vh;
+    border: none;
+    padding: 2vh;
+    padding-inline: 5vw;
+    font-family: sans-serif;
+    font-size: 1.7vh;
+    color: white;
+    cursor: pointer;
+}
+
+.step-2 {
+    display: flex;
+    margin-right: 15vw;
+    width: 85vw;
+    padding-left: 7vw;
+    padding-top: 5vh;
+}
+
+.step-2-image {
+    width: 20vw;
+    align-self: center;
+}
+
+.step-2-text {
+    width: 58vw;
+    align-self: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 2.3vh;
+    text-align: center;
+}
+
+.step-2-hair-quiz-button {
+    background-color: #F48594;
+    margin: 2vh;
+    border: none;
+    padding: 2vh;
+    padding-inline: 5vw;
+    font-family: sans-serif;
+    font-size: 1.7vh;
+    color: white;
+    cursor: pointer;
+}
+
+.step-3 {
+    margin-left: 20vw;
+    padding-top: 5vh;
+    display: flex;
+    width: 80vw;
+}
+
+.step-3-image {
+    width: 15vw;
+    align-self: center;
+}
+
+.step-3-text {
+    width: 50vw;
+    margin-right: 10vw;
+    text-align: center;
+    align-self: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 2.3vh;
+}
+
+.step-3-hair-quiz-button {
+    background-color: #F48594;
+    margin: 2vh;
+    border: none;
+    padding: 2vh;
+    padding-inline: 5vw;
+    font-family: sans-serif;
+    font-size: 1.7vh;
+    color: white;
+    cursor: pointer;
+}

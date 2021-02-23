@@ -1,0 +1,28 @@
+.compact-footer {
+    height: 7vh;
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.compact-footer-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh;
+}
+
+.compact-footer-logos {
+    align-self: center;
+}
+
+.compact-footer-contact-logo {
+    margin-inline: 1vw;
+    color: #F48594;
+    margin-bottom: 2vh;
+}
+
+.compact-footer-text-item {
+    margin-inline: 2vw;
+    font-family: sans-serif;
+    color: #F48594;
+}

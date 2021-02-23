@@ -1,0 +1,40 @@
+.top-nav-bar {
+    position: absolute;
+    display: flex;
+    flex-basis: 0;
+    padding-top: 5vh;
+    align-items: center;
+}
+
+.top-nav-bar-item {
+    flex: 1 1;
+    text-align: center;
+    font-size: 1.75vh;
+    font-family: sans-serif;
+}
+
+.nav-bar-logo {
+    font-family: Zapfino;
+    font-size: 3vh;
+    font-weight: bold;
+    padding-block: 0.75vh;
+    padding-inline: 0.25vw;
+    padding-right: 1vw;
+}
+
+.dropbtn {
+    cursor: pointer;
+}
+
+.dropbtnContent {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.show {
+    display:block;
+}
